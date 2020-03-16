@@ -1,0 +1,916 @@
+{
+    "id": 1234,
+    "version": 1.0,
+    "map": [
+        {
+            "type": "LibertyIsland",
+            "coordinate": {
+                "x": 1,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "QuaysideSpace",
+            "coordinate": {
+                "x": 1,
+                "y": 8
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 1,
+                "y": 10
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 2,
+                "y": 7
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 2,
+                "y": 9
+            },
+            "character": null,
+            "tile": {
+                "type": "MetroEntrance",
+                "strict": false
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 2,
+                "y": 11
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "PortSpace",
+            "coordinate": {
+                "x": 2,
+                "y": 13
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "QuaysideSpace",
+            "coordinate": {
+                "x": 3,
+                "y": 6
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 3,
+                "y": 8
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 3,
+                "y": 10
+            },
+            "character": null,
+            "tile": {
+                "type": "GasLamp",
+                "strict": false
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 3,
+                "y": 12
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 3,
+                "y": 14
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 5
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 7
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 9
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 11
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 13
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 4,
+                "y": 15
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "PortSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 4
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 6
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 8
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 10
+            },
+            "character": {
+                "type": "AlfredElyBeach",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 12
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 14
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "QuaysideSpace",
+            "coordinate": {
+                "x": 5,
+                "y": 16
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 3
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 5
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 7
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 9
+            },
+            "character": {
+                "type": "JamesCallahan",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 11
+            },
+            "character": {
+                "type": "LewisHowardLatimer",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 13
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 6,
+                "y": 15
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "QuaysideSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 4
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 6
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 8
+            },
+            "character": null,
+            "tile": {
+                "type": "MetroEntrance",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 10
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 12
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 14
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "PortSpace",
+            "coordinate": {
+                "x": 7,
+                "y": 16
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 3
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 5
+            },
+            "character": {
+                "type": "MonkEastman",
+                "suspect": true,
+                "visible": false
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 7
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 9
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 11
+            },
+            "character": {
+                "type": "FrancisTumblety",
+                "suspect": true,
+                "visible": false
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 8,
+                "y": 13
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 4
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 6
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 8
+            },
+            "character": {
+                "type": "CloudRider",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 10
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 9,
+                "y": 12
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 3
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 5
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 7
+            },
+            "character": {
+                "type": "EmmaGrant",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 9
+            },
+            "character": {
+                "type": "EdwardSmith",
+                "suspect": true,
+                "visible": true
+            },
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 11
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 10,
+                "y": 13
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 4
+            },
+            "character": null,
+            "tile": {
+                "type": "MetroEntrance",
+                "strict": false
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 6
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 8
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 10
+            },
+            "character": null,
+            "tile": {
+                "type": "BuildingSite",
+                "strict": true
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 12
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 14
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "PortSpace",
+            "coordinate": {
+                "x": 11,
+                "y": 16
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "PortSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 1
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 3
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 5
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 7
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 9
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 11
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 13
+            },
+            "character": null,
+            "tile": {
+                "type": "MetroEntrance",
+                "strict": false
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 12,
+                "y": 15
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 2
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 4
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 6
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 8
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 10
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 12
+            },
+            "character": null,
+            "tile": {
+                "type": "GasLamp",
+                "strict": false
+            }
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 14
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "StreetSpace",
+            "coordinate": {
+                "x": 13,
+                "y": 16
+            },
+            "character": null,
+            "tile": null
+        },
+        {
+            "type": "ExitLand",
+            "coordinate": {
+                "x": 14,
+                "y": 11
+            },
+            "character": null,
+            "tile": null
+        }
+    ],
+    "configures": {
+        "Informant": {
+            "cell": {
+                "type": "LibertyIsland",
+                "coordinate": {
+                    "x": 1,
+                    "y": 2
+                },
+                "character": null,
+                "tile": null
+            },
+            "talkative": true
+        },
+        "steamers": [
+            {
+                "cell": {
+                    "type": "PortSpace",
+                    "coordinate": {
+                        "x": 5,
+                        "y": 2
+                    },
+                    "character": null,
+                    "tile": null
+                }
+            },
+            {
+                "cell": {
+                    "type": "PortSpace",
+                    "coordinate": {
+                        "x": 11,
+                        "y": 16
+                    },
+                    "character": null,
+                    "tile": null
+                }
+            }
+        ],
+        "investigationTiles": [
+            {
+                "blockedCells": [
+                    {
+                        "type": "StreetSpace",
+                        "coordinate": {
+                            "x": 5,
+                            "y": 4
+                        },
+                        "character": null,
+                        "tile": null
+                    },
+                    {
+                        "type": "StreetSpace",
+                        "coordinate": {
+                            "x": 6,
+                            "y": 3
+                        },
+                        "character": null,
+                        "tile": null
+                    }
+                ]
+            },
+            {
+                "blockedCells": [
+                    {
+                        "type": "StreetSpace",
+                        "coordinate": {
+                            "x": 11,
+                            "y": 14
+                        },
+                        "character": null,
+                        "tile": null
+                    },
+                    {
+                        "type": "StreetSpace",
+                        "coordinate": {
+                            "x": 12,
+                            "y": 15
+                        },
+                        "character": null,
+                        "tile": null
+                    }
+                ]
+            }
+        ],
+        "jackVisibility": true,
+        "turn": 1
+    }
+}
